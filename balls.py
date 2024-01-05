@@ -80,8 +80,9 @@ class Ball(pygame.sprite.Sprite):
                         player.pts += 30
                         player.speed = 6
                         player.size = 30
-            if self.type == 'green' and 3 > player.hp > 0:
-                player.hp += 1
+            if self.type == 'green':
+                if 3 > player.hp > 0:
+                    player.hp += 1
                 player.pts += 20
             if self.type == 'pink':
                 player.speed = 8
