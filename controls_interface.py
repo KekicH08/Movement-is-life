@@ -15,7 +15,7 @@ def events(screen, player, running, size, music_pause, clock, level, input_box, 
             sys.exit()
 
         #  управление персонажем
-        elif event.type == pygame.KEYDOWN:
+        elif event.type == pygame.KEYDOWN and not input_box.active:
             if event.key == pygame.K_w or event.key == pygame.K_UP:
                 player.mup = True
             elif event.key == pygame.K_s or event.key == pygame.K_DOWN:
@@ -43,7 +43,7 @@ def events(screen, player, running, size, music_pause, clock, level, input_box, 
             if event.key == pygame.K_ESCAPE:
                 start_end_screen.end_screen()
 
-        elif event.type == pygame.KEYUP:
+        elif event.type == pygame.KEYUP and not input_box.active:
             if event.key == pygame.K_w or event.key == pygame.K_UP:
                 player.mup = False
             elif event.key == pygame.K_s or event.key == pygame.K_DOWN:

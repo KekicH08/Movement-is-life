@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9293878-a066-4aca-a28e-f56417084a10" name="Changes" comment="Master version 1">
-      <change beforePath="$PROJECT_DIR$/balls.py" beforeDir="false" afterPath="$PROJECT_DIR$/balls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/main.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/warn-main.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/xref-main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/heart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/leaderboard.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/music.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/sad_smile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.spec" beforeDir="false" />
-    </list>
+    <list default="true" id="a9293878-a066-4aca-a28e-f56417084a10" name="Changes" comment="Master version 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +47,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704392331984</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Master version 2">
+      <created>1704433202916</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704433202916</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Master version 2">
+      <created>1704433222149</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704433222149</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +77,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Master version 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Master version 1" />
+    <MESSAGE value="Master version 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Master version 2" />
   </component>
 </project>
